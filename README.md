@@ -19,7 +19,7 @@
 cd C:\xampp\htdocs\
 
 - Clone o projeto
-git clone https://github.com/josevinicius000/taskmanager.git
+git clone https://github.com/josevinicius000/-taskmanager.git
 
 - Entre na pasta do projeto
 cd taskmanager 
