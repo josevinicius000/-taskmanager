@@ -54,7 +54,7 @@ CREATE DATABASE taskmanager CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 EXIT;
 
 3. Configure a conexão no arquivo .env.
-Abra o arquivo .env e ajuste as seguintes linhas com as configurações do banco:
+Copie o todo conteúdo do arquivo .env.example no arquivo .env:
 
 .env:
 DB_CONNECTION=mysql
